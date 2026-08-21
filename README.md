@@ -1,6 +1,3 @@
-# Lern-Atelier-1
-Lern Atelier repository. 
-
 # Lern-Atelier-1 
 ## 1. Tag, 21.08.2026
 ### Ziele:
