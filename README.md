@@ -9,4 +9,4 @@
 ### Ziele:
 1. Moodle weiter an Modul 319 arbeiten, aufholen.
 2. Fehler von Probeprüfung verstehen, Dokumente wiederholen und auf Visual Studio ausprobieren.
-3.  Wenn ich bei Modul 319 gut aufgeholt habe auch am Modul 431 arbeiten. 
+3. Wenn ich bei Modul 319 gut aufgeholt habe auch am Modul 431 arbeiten. 
